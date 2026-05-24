@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.2.27)  24 MAY 2026 23:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.2.27)  24 MAY 2026 23:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -529,8 +529,7 @@ ef
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count300
 \l__pdf_internal_box=\box56
-)
-No file report.aux.
+) (./report.aux)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -554,6 +553,7 @@ LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Info: Redefining \th on input line 14.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -613,113 +613,109 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package hyperref Info: Link coloring OFF on input line 14.
+ (./report.out) (./report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-50.
- (/usr/local/texlive/2025basic/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+46.
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 
 [1
 
 {/usr/local/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<../plots/random_time.png, id=14, 462.528pt x 346.896pt>
-File: ../plots/random_time.png Graphic file (type png)
-<use ../plots/random_time.png>
-Package pdftex.def Info: ../plots/random_time.png  used on input line 107.
-(pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
-
 
 [2]
-<../plots/random_comparisons.png, id=20, 462.528pt x 346.896pt>
+<../plots/random_time.png, id=20, 462.528pt x 346.896pt>
+File: ../plots/random_time.png Graphic file (type png)
+<use ../plots/random_time.png>
+Package pdftex.def Info: ../plots/random_time.png  used on input line 164.
+(pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
+<../plots/random_comparisons.png, id=22, 462.528pt x 346.896pt>
 File: ../plots/random_comparisons.png Graphic file (type png)
 <use ../plots/random_comparisons.png>
-Package pdftex.def Info: ../plots/random_comparisons.png  used on input line 11
-3.
+Package pdftex.def Info: ../plots/random_comparisons.png  used on input line 17
+0.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
-<../plots/reverse_time.png, id=21, 462.528pt x 346.896pt>
+
+
+[3 <../plots/random_time.png>]
+<../plots/reverse_time.png, id=29, 462.528pt x 346.896pt>
 File: ../plots/reverse_time.png Graphic file (type png)
 <use ../plots/reverse_time.png>
-Package pdftex.def Info: ../plots/reverse_time.png  used on input line 119.
+Package pdftex.def Info: ../plots/reverse_time.png  used on input line 176.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
-
-
-[3 <../plots/random_time.png> <../plots/random_comparisons.png>]
 <../plots/reverse_comparisons.png, id=30, 462.528pt x 346.896pt>
 File: ../plots/reverse_comparisons.png Graphic file (type png)
 <use ../plots/reverse_comparisons.png>
 Package pdftex.def Info: ../plots/reverse_comparisons.png  used on input line 1
-25.
+82.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
-<../plots/almost_time.png, id=31, 462.528pt x 346.896pt>
+
+
+[4 <../plots/random_comparisons.png> <../plots/reverse_time.png>]
+<../plots/almost_time.png, id=39, 462.528pt x 346.896pt>
 File: ../plots/almost_time.png Graphic file (type png)
 <use ../plots/almost_time.png>
-Package pdftex.def Info: ../plots/almost_time.png  used on input line 131.
+Package pdftex.def Info: ../plots/almost_time.png  used on input line 188.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
-
-
-[4 <../plots/reverse_time.png> <../plots/reverse_comparisons.png>]
 <../plots/almost_comparisons.png, id=40, 462.528pt x 346.896pt>
 File: ../plots/almost_comparisons.png Graphic file (type png)
 <use ../plots/almost_comparisons.png>
-Package pdftex.def Info: ../plots/almost_comparisons.png  used on input line 13
-7.
+Package pdftex.def Info: ../plots/almost_comparisons.png  used on input line 19
+4.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
-<../plots/prefix_time.png, id=41, 462.528pt x 346.896pt>
+
+
+[5 <../plots/reverse_comparisons.png> <../plots/almost_time.png>]
+<../plots/prefix_time.png, id=49, 462.528pt x 346.896pt>
 File: ../plots/prefix_time.png Graphic file (type png)
 <use ../plots/prefix_time.png>
-Package pdftex.def Info: ../plots/prefix_time.png  used on input line 143.
+Package pdftex.def Info: ../plots/prefix_time.png  used on input line 200.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
-
-
-[5 <../plots/almost_time.png> <../plots/almost_comparisons.png>]
 <../plots/prefix_comparisons.png, id=50, 462.528pt x 346.896pt>
 File: ../plots/prefix_comparisons.png Graphic file (type png)
 <use ../plots/prefix_comparisons.png>
-Package pdftex.def Info: ../plots/prefix_comparisons.png  used on input line 14
-9.
+Package pdftex.def Info: ../plots/prefix_comparisons.png  used on input line 20
+6.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
 
 
-[6 <../plots/prefix_time.png> <../plots/prefix_comparisons.png>]
+[6 <../plots/almost_comparisons.png> <../plots/prefix_time.png>]
 
-[7]
+[7 <../plots/prefix_comparisons.png>]
 
 [8] (./report.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12025 strings out of 474142
- 187794 string characters out of 5742216
- 598358 words of memory out of 5000000
- 34931 multiletter control sequences out of 15000+600000
+ 12033 strings out of 474142
+ 187906 string characters out of 5742216
+ 598407 words of memory out of 5000000
+ 34933 multiletter control sequences out of 15000+600000
  567773 words of font info for 58 fonts, out of 8000000 for 9000
  735 hyphenation exceptions out of 8191
- 75i,6n,79p,633b,520s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,811b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/mm/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lat
 t1200.600pk> </Users/mm/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jkn
 appen/ec/tcrm1200.600pk> </Users/mm/Library/texlive/2025basic/texmf-var/fonts/p
-k/ljfour/lh/lh-t2a/labx1200.600pk> </Users/mm/Library/texlive/2025basic/texmf-v
-ar/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </Users/mm/Library/texlive/2025bas
-ic/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.600pk>
-Output written on report.pdf (8 pages, 812102 bytes).
+k/ljfour/lh/lh-t2a/larm1200.600pk> </Users/mm/Library/texlive/2025basic/texmf-v
+ar/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </Users/mm/Library/texlive/2025bas
+ic/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.600pk></usr/local/texlive/2025b
+asic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2
+025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on report.pdf (8 pages, 850363 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 320 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
  17 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
